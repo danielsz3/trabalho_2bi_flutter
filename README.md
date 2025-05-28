@@ -2,6 +2,8 @@
 
 ATIVIDADE 01 DO 2º BIMESTRE
 
+## Daniel Msquita Oliveira | RAº 14044
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
